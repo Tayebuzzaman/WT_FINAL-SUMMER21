@@ -25,8 +25,8 @@ include 'controllers/temp.php';
 					<tr>
 						<td><b>User Name</td>
 						<td>
-	           	<input type="text" placeholder="User Name" name="name" value="<?php echo $username;?>"></td>
-				<td><span><?php echo $err_username;?></span>
+	           	<input type="text" placeholder="User Name" name="name" value="<?php echo $uname;?>"></td>
+				<td><span><?php echo $err_uname;?></span>
 
 		</td>
 					</tr>
